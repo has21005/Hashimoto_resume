@@ -1,1 +1,1 @@
-# Kanato Hashimot's resume
+# Kanato Hashimoto's resume
