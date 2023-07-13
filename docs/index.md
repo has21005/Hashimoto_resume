@@ -31,10 +31,10 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `April 2021 - August 2021`
 __Meiko Gizyuku__, Chiba, Japan
 
-- Made learning plan of junior high school students
-- Taught two or three students in one class 
-- Taught math, science, Japanese, English, social study to elementary school student, Junior high school student, and High school student 
-- Analyzed past tests and gave test preparation classes
+- Made learning plan of junior high school students.
+- Taught two or three students in one class.
+- Taught math, science, Japanese, English, social study to elementary school student, Junior high school student, and High school student.
+- Analyzed past tests and gave test preparation classes.
 
 ### Online Teacehr Asistant
 
