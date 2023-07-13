@@ -7,7 +7,7 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
 <a href="has21005@byui.edu">has21005@byui.edu</a>
-| <a href="www.linkedin.com/in/KanatoHashimoto">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/kanatohashimoto/">LinkedIn</a>
 | <a href="https://github.com/has21005/Hashimoto_resume/tree/master">GitHub</a>
 </div>
 
