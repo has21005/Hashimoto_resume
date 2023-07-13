@@ -43,7 +43,7 @@ __Brigham Young University - Idaho__, Rexburg, Idaho
 
 - Graded assignments related to math and Microsoft Excel for online students. 
 - Helped students not to be behind class by leaving comments on the assignments.
-- Improved online grading system 
+- Improved online grading system.
 
 
 ## Volunteer Experience
