@@ -3,7 +3,6 @@ layout: cv
 title: Kanato Hashimoto's Resume
 ---
 # Kanato Hashimoto
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
 <a href="has21005@byui.edu">has21005@byui.edu</a>
