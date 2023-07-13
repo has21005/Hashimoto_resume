@@ -31,19 +31,19 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `April 2021 - August 2021`
 __Meiko Gizyuku__, Chiba, Japan
 
-- Made learning plan of junior high school students.
-- Taught two or three students in one class. 
-- Taught math, science, Japanese, English, social study to elementary school student, Junior high school student, and High school student. 
-- Analyzed past tests and gave test preparation classes. 
+- Made learning plan of junior high school students
+- Taught two or three students in one class 
+- Taught math, science, Japanese, English, social study to elementary school student, Junior high school student, and High school student 
+- Analyzed past tests and gave test preparation classes
 
 ### Online Teacehr Asistant
 
 `September 2022 - December 2022`
 __Brigham Young University - Idaho__, Rexburg, Idaho
 
-- Graded assignments related to math and Microsoft Excel for online students. 
-- Helped students not to be behind class by leaving comments on the assignments.
-- Improved online grading system.
+- Graded assignments related to math and Microsoft Excel for online students
+- Helped students not to be behind class by leaving comments on the assignments
+- Improved online grading system
 
 
 ## Volunteer Experience
